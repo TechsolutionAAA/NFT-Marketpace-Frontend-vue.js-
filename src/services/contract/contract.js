@@ -1,0 +1,14 @@
+export default {
+  NFTCollection: {
+    1: "0x57D94D03158Ae40314a98e98BDD4536BcfE3a7e8",
+    5: "0x3cA3E2e8b46d2a40A8c76B16D2dCB336A021Da66",
+  },
+  NFTMarketaplace: {
+    1: "0xba25533aD757b05310DB335EFEacb5598d2D9d94",
+    5: "0x6C8008a8CEC9FB7B42aef707F60680e8e4Ff3d24",
+  },
+  BetaNFTMarketplace: {
+    1: "0xf333DCc2EA4d99f40A726e91377D71d17711f816",
+    5: "0xA82DCd7671D2009818ce5d6F870B80e72b30b3aF",
+  },
+}
